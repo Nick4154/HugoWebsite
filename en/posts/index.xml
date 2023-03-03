@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on ServerFuel</title>
+    <link>https://serverfuel.ca/en/posts/</link>
+    <description>Recent content in Posts on ServerFuel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://serverfuel.ca/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my blog!</title>
+      <link>https://serverfuel.ca/en/2023/03/02/welcome-to-my-blog/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://serverfuel.ca/en/2023/03/02/welcome-to-my-blog/</guid>
+      <description>A blog that explores the world of homelab, focusing on home servers, virtualization, automation, and best practices for security and troubleshooting to create a flexible and robust computing environment at home.</description>
+    </item>
+    
+  </channel>
+</rss>
